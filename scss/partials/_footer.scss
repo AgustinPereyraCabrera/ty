@@ -1,0 +1,29 @@
+footer{
+    background-color: #daa89b;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color:#884c42;
+	height:120px;
+	bottom: 0;
+	width: 100%;
+    div{
+        font-size: 11px;
+        color:#884c42;
+        .footer-p--margin{
+            margin: 0;
+        }
+    }
+    aside{
+        ul{
+            li{
+                width: 17px;
+                height: 19px;
+                text-decoration: none;
+                list-style: none;
+                position: relative;
+            }
+        }
+    }
+
+}
