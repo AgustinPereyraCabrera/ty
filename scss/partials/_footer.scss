@@ -27,3 +27,22 @@ footer{
     }
 
 }
+
+.myOrder{
+	max-width: 400px;
+	position: relative;
+	border-style: solid;
+	background-color: #daa89b;
+	border-color: #884c42;
+	margin: 40px;
+	margin-right: 350px;
+	margin-left:500px ;
+}
+textarea{
+	max-width:400px;
+	max-height: 450px;
+}
+#footer-us{
+	position: absolute;
+	width: 100%;
+}
